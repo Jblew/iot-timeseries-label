@@ -1,12 +1,16 @@
 [submodule "mlsb-movement-recorder"]
 	path = mlsb-movement-recorder
 	url = git@github.com:Jblew/mlsb-movement-recorder.git
+	branch = master
 [submodule "iot-timeseries-label-react-ui"]
 	path = react-ui
 	url = git@github.com:Jblew/iot-timeseries-label-react-ui.git
+	branch = master
 [submodule "iot-timeseries-label-core"]
 	path = core
 	url = git@github.com:Jblew/iot-timeseries-label-core.git
+	branch = master
 [submodule "iot-timeseries-label-serverless"]
 	path = serverless
 	url = git@github.com:Jblew/iot-timeseries-label-serverless.git
+	branch = master
