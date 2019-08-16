@@ -14,3 +14,7 @@
 	path = serverless
 	url = git@github.com:Jblew/iot-timeseries-label-serverless.git
 	branch = master
+[submodule "iot-timeseries-label-website"]
+	path = iot-timeseries-label-website
+	url = git@github.com:Jblew/iot-timeseries-label-website.git
+	branch = master
