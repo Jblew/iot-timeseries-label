@@ -1,0 +1,3 @@
+Primary: #84BEEB
+Secondary: #1A224A
+Background: #303E88
