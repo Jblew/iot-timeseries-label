@@ -4,3 +4,6 @@
 [submodule "iot-timeseries-label-react-ui"]
 	path = react-ui
 	url = git@github.com:Jblew/iot-timeseries-label-react-ui.git
+[submodule "iot-timeseries-label-core"]
+	path = iot-timeseries-label-core
+	url = git@github.com:Jblew/iot-timeseries-label-core.git
