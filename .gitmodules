@@ -1,3 +1,6 @@
 [submodule "mlsb-movement-recorder"]
 	path = mlsb-movement-recorder
 	url = git@github.com:Jblew/mlsb-movement-recorder.git
+[submodule "iot-timeseries-label-react-ui"]
+	path = iot-timeseries-label-react-ui
+	url = git@github.com:Jblew/iot-timeseries-label-react-ui.git
