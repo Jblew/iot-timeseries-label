@@ -8,5 +8,5 @@
 	path = core
 	url = git@github.com:Jblew/iot-timeseries-label-core.git
 [submodule "iot-timeseries-label-serverless"]
-	path = iot-timeseries-label-serverless
+	path = serverless
 	url = git@github.com:Jblew/iot-timeseries-label-serverless.git
