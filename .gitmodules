@@ -18,3 +18,7 @@
 	path = website
 	url = git@github.com:Jblew/iot-timeseries-label-website.git
 	branch = master
+[submodule "firestore-roles-redux-module"]
+	path = firestore-roles-redux-module
+	url = git@github.com:Jblew/firestore-roles-redux-module.git
+	branch = master
